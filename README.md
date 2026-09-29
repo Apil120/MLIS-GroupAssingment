@@ -73,12 +73,7 @@ MLIS-GroupAssingment/
 │   ├── 07_clustering_kmeans.ipynb       # K-Means clustering
 │   ├── 08_clustering_dtw.ipynb          # DTW K-Means (time-series)
 │   └── 09_stratified_modeling.ipynb     # Cluster-stratified regression
-├── src/                                 # Reusable source modules (planned)
-│   ├── features.py
-│   ├── models.py
-│   ├── clustering.py
-│   └── utils.py
-├── models/                              # Saved model artifacts
+├── models/                              # Saved model artifacts (to be generated)
 │   ├── linear_regression.pkl
 │   ├── random_forest.pkl
 │   ├── xgboost.json
